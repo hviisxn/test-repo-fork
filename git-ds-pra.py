@@ -1,3 +1,5 @@
+이정우, 202503694, 컴퓨터공학부
+
 # 코드트리 prefixSum - 두가지버전
 
 import time, random
@@ -38,4 +40,5 @@ last = time.process_time()
 # print(f"O(n)의 수행시간 : {time2:.7f}")
 
 print(f"O(n^2)의 수행시간 : {after - before:.8f}")
+
 print(f"O(n)의 수행시간 : {last - after:.8f}")
